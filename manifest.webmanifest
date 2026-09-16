@@ -1,0 +1,12 @@
+{
+  "name": "IKS Scan & Verify",
+  "short_name": "IKS Scan",
+  "description": "Realtime DotCode scanner and authorized verification",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f3f3",
+  "theme_color": "#111111",
+  "icons": []
+}
