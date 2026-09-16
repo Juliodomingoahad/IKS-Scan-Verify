@@ -1,0 +1,1 @@
+Upload index.html, manifest.webmanifest to the root of your GitHub Pages repository. Open the HTTPS Pages URL in Chrome Android and tap Mulai Kamera.
