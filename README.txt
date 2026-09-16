@@ -1,0 +1,1 @@
+V5 Android: upload all three files to the GitHub Pages repository root. Includes live getUserMedia plus a direct Android camera capture fallback using input capture=environment. Decoder: Sythos Barcode Universal 1.6.3.
